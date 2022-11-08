@@ -1,0 +1,13 @@
+.old__block {
+    margin-top: 100px;
+    width: 1400px;
+    height: 150px;
+    background-color: #1af81a;
+    position: relative;
+}
+.little__block {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #ff5800;
+}
